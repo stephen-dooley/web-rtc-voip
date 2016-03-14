@@ -1,0 +1,20 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "WebRTC lab assignment for Real-Time Systems Module",
+  "main": "video_call_with_chat.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Dooley",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.*",
+    "is-typedarray": "^1.0.*",
+    "ms": "^0.7.*",
+    "nan": "^2.2.*",
+    "typedarray-to-buffer": "^3.1.*",
+    "websocket": "^1.0.2*",
+    "yaeti": "0.0.*"
+  }
+}
