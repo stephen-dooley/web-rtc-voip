@@ -1,0 +1,10 @@
+.DS_Store
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+log.txt
+coverage
+test/junit-report.xml
